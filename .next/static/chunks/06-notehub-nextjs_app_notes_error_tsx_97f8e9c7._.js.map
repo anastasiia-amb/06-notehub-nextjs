@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/msigf/Desktop/Projects/06-notehub-nextjs/app/notes/error.tsx"],"sourcesContent":["\"use client\";\r\n\r\ntype Props = {\r\n  error: Error;\r\n};\r\n\r\nexport default function Error({ error }: Props) {\r\n  return <p>Could not fetch the list of notes. {error.message}</p>;\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;AAMe,SAAS,MAAM,KAAgB;QAAhB,EAAE,KAAK,EAAS,GAAhB;IAC5B,qBAAO,wNAAC;;YAAE;YAAoC,MAAM,OAAO;;;;;;;AAC7D;KAFwB","debugId":null}}]
+}

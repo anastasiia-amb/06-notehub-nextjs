@@ -1,0 +1,40 @@
+/* [project]/06-notehub-nextjs/components/Header/Header.module.css [app-client] (css) */
+.Header-module__bHHpYa__header {
+  color: #fff;
+  background-color: #333;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  display: flex;
+}
+
+.Header-module__bHHpYa__header a {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.Header-module__bHHpYa__header a:hover {
+  color: #ddd;
+}
+
+.Header-module__bHHpYa__navigation {
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+.Header-module__bHHpYa__navigation li a {
+  color: #fff;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.Header-module__bHHpYa__navigation li a:hover {
+  color: #ddd;
+}
+
+/*# sourceMappingURL=06-notehub-nextjs_components_Header_Header_module_css_bad6b30c._.single.css.map*/

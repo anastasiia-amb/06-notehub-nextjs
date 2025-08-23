@@ -1,12 +1,13 @@
 {
   "pages": {
     "/page": [
-      "static/chunks/[root-of-the-server]__b0f32c5e._.css",
-      "static/chunks/efe88_next_dist_a7f3a351._.js",
+      "static/chunks/[root-of-the-server]__52c4f2e3._.css",
+      "static/chunks/efe88_35b0d6c7._.js",
+      "static/chunks/06-notehub-nextjs_components_TanStackProvider_TanStackProvider_tsx_e9849eac._.js",
       "static/chunks/06-notehub-nextjs_app_layout_tsx_93e1e3ab._.js",
-      "static/chunks/efe88_next_dist_client_components_builtin_global-error_6cd0d3dc.js",
+      "static/chunks/efe88_next_dist_client_components_builtin_global-error_f1ab5b14.js",
       "static/chunks/06-notehub-nextjs_app_Home_module_ccc3b08c.css",
-      "static/chunks/06-notehub-nextjs_app_page_tsx_6cd0d3dc._.js",
+      "static/chunks/06-notehub-nextjs_app_page_tsx_f1ab5b14._.js",
       "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_a4bfd843._.js",
       "static/chunks/efe88_next_dist_compiled_react-dom_cfae4d88._.js",
       "static/chunks/efe88_next_dist_compiled_next-devtools_index_1249b5da.js",
