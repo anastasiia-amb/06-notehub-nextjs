@@ -1,0 +1,55 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/efe88_next_dist_compiled_next-devtools_index_8f4e77b4.js",
+      "static/chunks/efe88_next_dist_compiled_36a889c6._.js",
+      "static/chunks/efe88_next_dist_shared_lib_5f340c39._.js",
+      "static/chunks/efe88_next_dist_client_8c35efae._.js",
+      "static/chunks/efe88_next_dist_80a00f29._.js",
+      "static/chunks/efe88_next_app_76ae667c.js",
+      "static/chunks/[next]_entry_page-loader_ts_45451261._.js",
+      "static/chunks/efe88_react-dom_4d881d36._.js",
+      "static/chunks/efe88_bc08a94a._.js",
+      "static/chunks/[root-of-the-server]__005e4701._.js",
+      "static/chunks/06-notehub-nextjs_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-06-notehub-nextjs_pages__app_84889b37._.js"
+    ],
+    "/_error": [
+      "static/chunks/efe88_next_dist_compiled_next-devtools_index_8f4e77b4.js",
+      "static/chunks/efe88_next_dist_compiled_36a889c6._.js",
+      "static/chunks/efe88_next_dist_shared_lib_414c761c._.js",
+      "static/chunks/efe88_next_dist_client_8c35efae._.js",
+      "static/chunks/efe88_next_dist_9143c652._.js",
+      "static/chunks/efe88_next_error_439a11f5.js",
+      "static/chunks/[next]_entry_page-loader_ts_ebd4f47f._.js",
+      "static/chunks/efe88_react-dom_4d881d36._.js",
+      "static/chunks/efe88_bc08a94a._.js",
+      "static/chunks/[root-of-the-server]__62e2bd6a._.js",
+      "static/chunks/06-notehub-nextjs_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-06-notehub-nextjs_pages__error_ec28a4b6._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/efe88_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_a4bfd843._.js",
+    "static/chunks/efe88_next_dist_compiled_react-dom_cfae4d88._.js",
+    "static/chunks/efe88_next_dist_compiled_next-devtools_index_1249b5da.js",
+    "static/chunks/efe88_next_dist_compiled_cf9dfe62._.js",
+    "static/chunks/efe88_next_dist_client_78646dc6._.js",
+    "static/chunks/efe88_next_dist_a1064bc0._.js",
+    "static/chunks/efe88_@swc_helpers_cjs_6615bcd7._.js",
+    "static/chunks/06-notehub-nextjs_a0ff3932._.js",
+    "static/chunks/turbopack-06-notehub-nextjs_11222802._.js"
+  ],
+  "ampFirstPages": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
+
+];

@@ -1,0 +1,28 @@
+/* [project]/06-notehub-nextjs/app/Home.module.css [app-client] (css) */
+.Home-module__gLWPNG__main {
+  flex: 1;
+}
+
+.Home-module__gLWPNG__container {
+  width: 90%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px 16px;
+}
+
+.Home-module__gLWPNG__title {
+  color: #1a1a1a;
+  text-align: center;
+  margin-bottom: 60px;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.Home-module__gLWPNG__description {
+  color: #444;
+  margin-bottom: 16px;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+/*# sourceMappingURL=06-notehub-nextjs_app_Home_module_ccc3b08c.css.map*/

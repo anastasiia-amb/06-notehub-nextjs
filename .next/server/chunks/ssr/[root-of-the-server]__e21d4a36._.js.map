@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/msigf/Desktop/Projects/06-notehub-nextjs/app/page.tsx"],"sourcesContent":["import css from \"./page.module.css\";\n\nexport default function Home() {\n  return (\n    <div className={css.page}>\n      <main>\n        <div className={css.container}>\n          <h1 className={css.title}>Welcome to NoteHub</h1>\n          <p className={css.description}>\n            NoteHub is a simple and efficient application designed for managing\n            personal notes. It helps keep your thoughts organized and accessible\n            in one place, whether you are at home or on the go.\n          </p>\n          <p className={css.description}>\n            The app provides a clean interface for writing, editing, and\n            browsing notes. With support for keyword search and structured\n            organization, NoteHub offers a streamlined experience for anyone who\n            values clarity and productivity.\n          </p>\n        </div>\n      </main>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;;;;;;;;AAEe,SAAS;IACtB,qBACE,yQAAC;QAAI,WAAW,IAAI,IAAI;kBACtB,cAAA,yQAAC;sBACC,cAAA,yQAAC;gBAAI,WAAW,IAAI,SAAS;;kCAC3B,yQAAC;wBAAG,WAAW,IAAI,KAAK;kCAAE;;;;;;kCAC1B,yQAAC;wBAAE,WAAW,IAAI,WAAW;kCAAE;;;;;;kCAK/B,yQAAC;wBAAE,WAAW,IAAI,WAAW;kCAAE;;;;;;;;;;;;;;;;;;;;;;AAUzC","debugId":null}}]
+}
