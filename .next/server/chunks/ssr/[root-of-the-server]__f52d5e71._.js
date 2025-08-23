@@ -200,7 +200,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$06$2d$notehub$2d$nextjs$2f$a
 ;
 async function Notes() {
     const queryClient = new __TURBOPACK__imported__module__$5b$project$5d2f$06$2d$notehub$2d$nextjs$2f$node_modules$2f40$tanstack$2f$query$2d$core$2f$build$2f$modern$2f$queryClient$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["QueryClient"]();
-    queryClient.prefetchQuery({
+    await queryClient.prefetchQuery({
         queryKey: [
             "notes",
             {
